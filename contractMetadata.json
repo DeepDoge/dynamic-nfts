@@ -1,0 +1,7 @@
+{
+  "name": "Dynamic NFTs by Nomad",
+  "description": "Dynamic NFTs with dynamically changing content and metadata.\n\nGenerated fully on the blockchain.\n\nTry them by refreshing the metadata.",
+  "image": "ipfs://QmTEysoHFyjbd26yMjRHzwWdAx6WyDFCvviFDqUSujHcvw",
+  "seller_fee_basis_points": 100,
+  "fee_recipient": "0xE272C9a263701DAFFe940FB4ecEACFa9b2c1217D"
+}
